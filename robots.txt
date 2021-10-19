@@ -2,4 +2,4 @@ User-agent: Googlebot
 Disallow: /nogooglebot/
 User-agent: *
 Allow: /
-Sitemap: http://www.example.com/sitemap.xml
+Sitemap: https://egenoka17.github.io/ejemplo-responsive/sitemap.xml
